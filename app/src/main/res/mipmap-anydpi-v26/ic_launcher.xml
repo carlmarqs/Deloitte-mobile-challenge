@@ -1,0 +1,3 @@
+package com.witsoftware.weatherapp.utils
+
+    import android.widget.ImageViewimport android.widget.TextViewimport androidx.core.net.toUriimport androidx.databinding.BindingAdapterimport com.bumptech.glide.Glideimport java.text.SimpleDateFormatimport java.time.
