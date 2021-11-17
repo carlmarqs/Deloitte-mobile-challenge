@@ -1,3 +1,5 @@
-package com.witsoftware.weatherapp.utils
-
-    import android.widget.ImageViewimport android.widget.TextViewimport androidx.core.net.toUriimport androidx.databinding.BindingAdapterimport com.bumptech.glide.Glideimport java.text.SimpleDateFormatimport java.time.
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/ic_launcher_background" />
+    <foreground android:drawable="@drawable/ic_launcher_foreground" />
+</adaptive-icon>
